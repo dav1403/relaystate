@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Home",
+    "deals": "Opportunities",
+    "articles": "Articles",
+    "contact": "Contact",
+    "lang": "FR"
+  },
+  "hero": {
+    "badge": "Jerusalem Real Estate Radar",
+    "title": "Buy in Jerusalem without the language barrier",
+    "subtitle": "We identify the best opportunities on the Israeli market, in French and English, so you never miss a deal.",
+    "cta_primary": "See opportunities",
+    "cta_secondary": "Contact us"
+  },
+  "values": {
+    "title": "Why RelayState?",
+    "items": [
+      {
+        "icon": "🔍",
+        "title": "Real-time monitoring",
+        "text": "Our radar continuously scans Yad2 and detects the best deals before they disappear."
+      },
+      {
+        "icon": "🌍",
+        "title": "No language barrier",
+        "text": "All listings are analyzed and presented in French and English. No Hebrew needed."
+      },
+      {
+        "icon": "🤝",
+        "title": "Strategic advisory",
+        "text": "Negotiation, neighborhoods, Israeli taxation — we guide you from A to Z in your purchase."
+      }
+    ]
+  },
+  "deals": {
+    "title": "Current Opportunities",
+    "subtitle": "Selection of undervalued properties detected this week in Jerusalem.",
+    "hidden_price": "Price on request",
+    "hidden_address": "Address provided on request",
+    "rooms": "rooms",
+    "sqm": "sqm",
+    "score": "Score",
+    "cta": "Request full details",
+    "see_all": "See all opportunities",
+    "tag_private": "Private seller",
+    "tag_agency": "Agency"
+  },
+  "articles": {
+    "title": "Guides & Analysis",
+    "subtitle": "Everything you need to know to buy smartly in Jerusalem.",
+    "read_more": "Read article",
+    "see_all": "See all articles",
+    "min_read": "min read"
+  },
+  "contact": {
+    "title": "Tell us about your project",
+    "subtitle": "Fill in this form and we'll get back to you within 24h with a personalized selection.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone (optional)",
+    "budget": "Budget (ILS)",
+    "budget_placeholder": "E.g. 3,000,000",
+    "rooms": "Minimum number of rooms",
+    "message": "Your project in a few words",
+    "message_placeholder": "E.g. I'm looking for a 3-room apartment in Rechavia to live in...",
+    "submit": "Send my request",
+    "success": "Message sent! We'll reply within 24h.",
+    "country": "Country of residence"
+  },
+  "footer": {
+    "tagline": "The Jerusalem real estate radar for foreign buyers.",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "deals": "Opportunités",
+    "articles": "Articles",
+    "contact": "Contact",
+    "lang": "EN"
+  },
+  "hero": {
+    "badge": "Radar immobilier Jérusalem",
+    "title": "Achetez à Jérusalem sans barrière de la langue",
+    "subtitle": "Nous identifions les meilleures opportunités sur le marché israélien, en français et en anglais, pour que vous ne ratiez aucun deal.",
+    "cta_primary": "Voir les opportunités",
+    "cta_secondary": "Nous contacter"
+  },
+  "values": {
+    "title": "Pourquoi RelayState ?",
+    "items": [
+      {
+        "icon": "🔍",
+        "title": "Veille en temps réel",
+        "text": "Notre radar scrute Yad2 en continu et détecte les meilleures affaires avant qu'elles disparaissent."
+      },
+      {
+        "icon": "🌍",
+        "title": "Sans barrière de la langue",
+        "text": "Toutes les annonces sont analysées et présentées en français et en anglais. Fini l'hébreu."
+      },
+      {
+        "icon": "🤝",
+        "title": "Conseil stratégique",
+        "text": "Négociation, quartiers, fiscalité israélienne — nous vous guidons de A à Z dans votre achat."
+      }
+    ]
+  },
+  "deals": {
+    "title": "Opportunités du moment",
+    "subtitle": "Sélection de biens sous-évalués détectés cette semaine à Jérusalem.",
+    "hidden_price": "Prix sur demande",
+    "hidden_address": "Adresse communiquée sur demande",
+    "rooms": "pièces",
+    "sqm": "m²",
+    "score": "Score",
+    "cta": "Demander les détails complets",
+    "see_all": "Voir toutes les opportunités",
+    "tag_private": "Vendeur privé",
+    "tag_agency": "Agence"
+  },
+  "articles": {
+    "title": "Guides & Analyses",
+    "subtitle": "Tout ce que vous devez savoir pour acheter intelligemment à Jérusalem.",
+    "read_more": "Lire l'article",
+    "see_all": "Voir tous les articles",
+    "min_read": "min de lecture"
+  },
+  "contact": {
+    "title": "Parlez-nous de votre projet",
+    "subtitle": "Remplissez ce formulaire et nous vous recontactons sous 24h avec une sélection personnalisée.",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone (optionnel)",
+    "budget": "Budget (ILS)",
+    "budget_placeholder": "Ex : 3 000 000",
+    "rooms": "Nombre de pièces minimum",
+    "message": "Votre projet en quelques mots",
+    "message_placeholder": "Ex : Je cherche un appartement de 3 pièces à Rechavia pour y habiter...",
+    "submit": "Envoyer ma demande",
+    "success": "Message envoyé ! Nous vous répondons sous 24h.",
+    "country": "Pays de résidence"
+  },
+  "footer": {
+    "tagline": "Le radar immobilier Jérusalem pour les acheteurs étrangers.",
+    "rights": "Tous droits réservés."
+  }
+}

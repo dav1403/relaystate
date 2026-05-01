@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "seef4kkq",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "גג/ פנטהאוז - בן ציון, גבעת שאול, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/seef4kkq",
+    "price": 4150000,
+    "area": 115,
+    "rooms": 3,
+    "location": "בן ציון, גבעת שאול, ירושלים",
+    "imageUrl": "https://img.yad2.co.il/Pic/202602/10/2_5/o/y2_1pa_010458_20260210191939.jpeg",
+    "raw": {
+      "address": {
+        "region": {
+          "text": "ירושלים והסביבה",
+          "id": 6
+        },
+        "city": {
+          "text": "ירושלים"
+        },
+        "area": {
+          "text": "אזור ירושלים"
+        },
+        "neighborhood": {
+          "text": "גבעת שאול"
+        },
+        "street": {
+          "text": "בן ציון"
+        },
+        "house": {
+          "number": 21,
+          "floor": 5
+        },
+        "coords": {
+          "lon": 35.193913,
+          "lat": 31.789565
+        }
+      },
+      "subcategoryId": 5,
+      "categoryId": 2,
+      "adType": "commercial",
+      "price": 4150000,
+      "token": "seef4kkq",
+      "additionalDetails": {
+        "property": {
+          "text": "גג/ פנטהאוז"
+        },
+        "roomsCount": 3,
+        "squareMeter": 115,
+        "propertyCondition": {
+          "id": 6
+        }
+      },
+      "metaData": {
+        "coverImage": "https://img.yad2.co.il/Pic/202602/10/2_5/o/y2_1pa_010458_20260210191939.jpeg",
+        "images": [
+          "https://img.yad2.co.il/Pic/202602/10/2_5/o/y2_1pa_010458_20260210191939.jpeg"
+        ],
+        "squareMeterBuild": 105
+      },
+      "customer": {
+        "agencyName": "פוינט נדל\"ן",
+        "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/a70ccd08-336c-41ee-b924-3ca982438e3f.jpg?t=1776376463766"
+      },
+      "tags": [],
+      "orderId": 56575859,
+      "priority": 1,
+      "packages": {}
+    },
+    "collectedAt": "2026-04-16T23:27:42.857Z",
+    "score": 85,
+    "reasons": [
+      "Price under 8500000",
+      "Target location matched",
+      "3 rooms"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-16T23:27:42.859Z"
+  },
+  {
+    "id": "zmug38e5",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "דירה - חניתה, עיר, מרכז העיר, נהריה",
+    "url": "https://www.yad2.co.il/realestate/item/zmug38e5",
+    "price": 1720000,
+    "area": 130,
+    "rooms": 5,
+    "location": "חניתה, עיר, מרכז העיר, נהריה",
+    "imageUrl": "https://img.yad2.co.il/Pic/202507/04/2_5/o/y2_1_995473_20250704.jpg",
+    "raw": {
+      "address": {
+        "region": {
+          "text": "מישור החוף הצפוני",
+          "id": 5
+        },
+        "city": {
+          "text": "נהריה"
+        },
+        "area": {
+          "text": "אזור עכו נהריה והסביבה"
+        },
+        "neighborhood": {
+          "text": "עיר, מרכז העיר"
+        },
+        "street": {
+          "text": "חניתה"
+        },
+        "house": {
+          "floor": 2
+        },
+        "coords": {
+          "lon": 35.0944514230769,
+          "lat": 33.0165791923077
+        }
+      },
+      "subcategoryId": 5,
+      "categoryId": 2,
+      "adType": "commercial",
+      "price": 1720000,
+      "token": "zmug38e5",
+      "additionalDetails": {
+        "property": {
+          "text": "דירה"
+        },
+        "roomsCount": 5,
+        "squareMeter": 130,
+        "propertyCondition": {
+          "id": 2
+        }
+      },
+      "metaData": {
+        "coverImage": "https://img.yad2.co.il/Pic/202507/04/2_5/o/y2_1_995473_20250704.jpg",
+        "images": [
+          "https://img.yad2.co.il/Pic/202507/04/2_5/o/y2_1_995473_20250704.jpg",
+          "https://img.yad2.co.il/Pic/202507/04/2_5/o/y2_2_997719_20250704.jpg",
+          "https://img.yad2.co.il/Pic/202507/04/2_5/o/y2_3_C8OC_995898_20250704.jpg",
+          "https://img.yad2.co.il/Pic/202507/04/2_5/o/y2_4_993910_20250704.png"
+        ],
+        "squareMeterBuild": 130
+      },
+      "customer": {
+        "agencyName": "פנורמה נכסים",
+        "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/37c4965e-8037-43e4-a320-884773370ff9.jpg?t=1776381704581"
+      },
+      "tags": [],
+      "orderId": 55765610,
+      "priority": 1,
+      "packages": {}
+    },
+    "collectedAt": "2026-04-16T23:27:42.857Z",
+    "score": 50,
+    "reasons": [
+      "Price under 8500000",
+      "Outside target location",
+      "5 rooms",
+      "Strategic zone matched"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-16T23:27:42.859Z"
+  },
+  {
+    "id": "18794",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "קוסטה ריקה, עיר גנים, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/18794",
+    "price": null,
+    "area": null,
+    "rooms": 6,
+    "location": "קוסטה ריקה, עיר גנים, ירושלים",
+    "imageUrl": "https://cdn.yad2.treedis.com/projects/1019194/assets/mainImage/9ba1aa12-8bb0-4495-930c-0fa07febd882.webp",
+    "raw": {
+      "token": "18794",
+      "treedisId": "1019194",
+      "orderId": 1019194,
+      "adNumber": 1019194,
+      "adType": "yad1",
+      "categoryId": 2,
+      "slug": "002d7cf4",
+      "subcategoryId": 99,
+      "statusId": 1,
+      "projectId": 1019194,
+      "projectYzerId": 18794,
+      "additionalDetails": {
+        "property": {
+          "id": "investment",
+          "textEng": "investment"
+        },
+        "projectCategories": [
+          1
+        ],
+        "maxPrice": 0,
+        "companyIds": [
+          "1001773",
+          "95"
+        ],
+        "roomsCount": 6,
+        "minRooms": 2,
+        "maxRooms": 6,
+        "maxFloor": 31,
+        "minFloor": 5,
+        "minSquaremeter": 53,
+        "maxSquaremeter": 339
+      },
+      "packages": {
+        "displayInAreaPageYad1": true,
+        "displayInCityPageYad1": true,
+        "displayInCompanyPageYad1": true,
+        "displayInMapListing": true,
+        "displayInMapLogos": true,
+        "displayInNeighborhoodPageYad1": true,
+        "displayInTopGallery": true,
+        "isImageGalleryPromotion": true,
+        "isProListing": true,
+        "isSameEntrepreneurPromotion": true,
+        "lidInImageGallery": true,
+        "hasMiniSite": true
+      },
+      "metaData": {
+        "companyDetails": [
+          {
+            "id": "1001773",
+            "info": "חברת בוטיק ירושלמית מובילה, המשלבת מקצוענות בלתי מתפשרת עם שירות אישי, ומתמחה בתחום ההתחדשות העירונית.\nהחברה מקדמת כיום כ־5,000 יחידות דיור בפרויקטים של התחדשות עירונית בירושלים, חלקם בשלבי ביצוע מתקדמים. קשת נדל״ן הוקמה בשנת 2010 על ידי תומר קדם ומוטי אנקרי, ונחשבת לחלוצה בתחום בעיר, עם הובלת פרויקטים מורכבים ובהיקפים משמעותיים.\nלצד פעילות רחבת היקף, שומרת החברה על אופי בוטיקי מובהק, הכולל ליווי אישי, זמינות גבוהה ושירות אנושי ונגיש, ברמת מקצועיות מהגבוהות בענף.\n",
+            "name": "קשת נדל״ן",
+            "logo": "https://cdn.yad2.treedis.com/clients/1001773/logo.png"
+          },
+          {
+            "id": "1000018",
+            "info": "\r\nחברת אביסרור משה ובניו היא מחברות הבנייה והיזמות המובילות בענף הנדל״ן בישראל. החברה נוסדה בשנת 1978 על ידי מר משה אביסרור ז״ל ופועלת מאז מתוך חזון ציוני, אחריות מקצועית ומחויבות עמוקה לאיכות בנייה בלתי מתפשרת.\n\r\n \n\r\nהחברה פועלת כיזמית וכמבצעת ומתמחה בניהול וביצוע פרויקטי מגורים, התחדשות עירונית, \"מחיר למשתכן\", \"מחיר מטרה\" ושכירות ארוכת טווח לצד מסחר ומשרדים.\n\r\n \n\r\nאביסרור חרטה על דגלה להעצים ולהוביל את תחום הבנייה האיכותית בישראל, ומקפידה על מצוינות מקצועית ועסקית מול לקוחותיה, שותפיה וספקיה. הניהול המוקפד, בקרת האיכות, השקיפות וטכנולוגיות הבנייה המתקדמות הובילו להענקת תו התקן הבינלאומי ISO 9002 – עדות ליציבות, לאיתנות פיננסית ולסטנדרט ביצוע בלתי מתפשר.\n\r\n \n\r\nלאורך השנים תכננה ובנתה החברה מאות פרויקטים למגורים ברחבי הארץ, תוך הקפדה על הסטנדרטים הגבוהים והמחמירים ביותר בענף.\n\r\n בין הערים: באר שבע, אשקלון, ירושלים, אשדוד, באר יעקב, יבנה, רחובות, ראשון לציון, בני ברק, רמת השרון, תל אביב-שדה דב ועוד\n\r\n",
+            "name": "אביסרור משה ובניו",
+            "logo": "https://cdn.yad2.treedis.com/clients/1000018/logo.png"
+          }
+        ],
+        "flag": "פרויקט במבצע",
+        "info": "הכי טבע בירושלים- לחיות בין הפארק לאגם, במיקום מושלם בשכונת קריית יובל. הפרויקט מציע חוויית מגורים מושלמת ליד פארק ענק עתידי ואגם קסום המתפרש על פני כ- ‏2 דונם. מיקום מושלם בשכונת קריית יובל ליד תחנת הרכבת הקלה וצירי תנועה המאפשרים נגישות נוחה לכל מה שטוב בירושלים. דירות מרווחות עם מרפסות גדולות, חדר כושר מאובזר וחיי קהילה עשירים",
+        "infoHeader": " GARDA  מבית אביסרור וקשת נדלן\n",
+        "projectName": "GARDA",
+        "promotionText": "GARDA במחירי PRESALE",
+        "projectLogo": "https://cdn.yad2.treedis.com/projects/1019194/assets/logo/3e053902-6cc9-475a-ba75-3548b58bf167.webp",
+        "coverImage": "https://cdn.yad2.treedis.com/projects/1019194/assets/mainImage/9ba1aa12-8bb0-4495-930c-0fa07febd882.webp",
+        "images": [
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/mainImage/9ba1aa12-8bb0-4495-930c-0fa07febd882.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/4fe4aafa-78f4-447a-8ef3-647979b84076.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/699c14e2-a00e-40ef-91f6-68e7efea6a48.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/61a07bcc-93c2-4d5e-960e-9839768dda58.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/d5b828c0-f09f-4089-ad5e-d49d79fa44d1.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/2d27e51e-c45c-45a3-95a4-aa1ff850996e.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/b15d73a5-260a-4e23-83ba-7d6a582a58b1.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/d2eba524-a571-412e-8695-45952012ca0a.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/af4270da-4c02-48c0-81fa-d19f05c8b190.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/52436968-b492-4529-98e4-6e214b122324.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/71b4b750-0f81-4c41-b100-3d774db7fe4a.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/7f7dbe6e-95aa-4485-91f4-010bcb210fb4.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/d2e424cb-f539-4fce-b152-8b185878b93a.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/94d459fe-552c-48c8-8ae1-10d0a9d33fcf.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/5ae561e1-e70a-498a-b9a3-b28418fa138c.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/49c531af-5027-4a44-889e-dd57b4287d35.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/d56bb732-d004-4a22-bed0-ed6261d0d2ff.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/2d24d20c-8cf8-4fe5-88ab-c6a1ca83ea4c.webp",
+          "https://cdn.yad2.treedis.com/projects/1019194/assets/gallery/97a630b5-b057-4720-9d8d-65014ad17b9a.webp"
+        ],
+        "previewType": "2d",
+        "promotionImage": "https://cdn.yad2.treedis.com/projects/1019194/assets/promotion/7f017fce-458b-4d03-97c4-fd9b71d21756.webp",
+        "specs": [
+          {
+            "category": "כללי",
+            "labels": [
+              "בנייה בסטנדרט גבוה, הכוללת חזיתות בשילוב מספר חיפויים ואלמנטים, על פי תכנון אדריכל הפרויקט",
+              " פיתוח סביבתי מושלם",
+              "לובי ראשי יוקרתי ומעוצב עם תקרה גבוהה, בעיצוב מעצבת הפנים",
+              " בלובי – עמדת שומר הכוללת הצבת מצלמות המקושרות לעמדת השומר",
+              "מועדון דיירים",
+              "חדר כושר מאובזר",
+              " חדר עגלות / אופניים",
+              " 4 מעליות יוקרתיות",
+              "שוט אשפה פנאומטי",
+              "צבע אקרילי בקירות הדירה",
+              "חימום תת־רצפתי בהתאם להנחיות היועצים",
+              "נקודת מים במרפסת שמש",
+              "נקודת גז",
+              "מרפסת שמש עם מעקה זכוכית ואלומיניום"
+            ]
+          },
+          {
+            "category": "מטבח",
+            "labels": [
+              "ארונות מטבח יוקרתיים עליונים ותחתונים, כולל יחידת Built-in ויחידת אי (בחלק מהמטבחים)",
+              "ברז עם פיה נשלפת",
+              " נקודת מים למקרר"
+            ]
+          },
+          {
+            "category": "חדרי רחצה / כלים סניטריים",
+            "labels": [
+              "אסלות תלויות",
+              "ארון אמבטיה + כיור ומראה באמבטיה המרכזית ובחדרי הרחצה (ללא שירותי אורחים)",
+              "במקלחת – אינטרפוץ 4 דרך, כולל מזלף, צינור וראש גשם קבוע",
+              "באמבטיה – אינטרפוץ 4 דרך עם פיית מילוי, כולל מזלף וצינור"
+            ]
+          }
+        ]
+      },
+      "address": {
+        "region": {
+          "id": "6",
+          "text": "ירושלים והסביבה"
+        },
+        "topArea": {
+          "id": "100",
+          "text": "מחוז ירושלים"
+        },
+        "area": {
+          "id": "7",
+          "text": "אזור ירושלים"
+        },
+        "city": {
+          "id": "3000",
+          "text": "ירושלים"
+        },
+        "neighborhood": {
+          "id": "511",
+          "text": "עיר גנים"
+        },
+        "street": {
+          "id": "2004",
+          "text": "קוסטה ריקה"
+        },
+        "coords": {
+          "lat": 31.753978,
+          "lon": 35.172675
+        },
+        "house": {
+          "number": 25
+        },
+        "addressMasterId": "5940197",
+        "display": "קוסטה ריקה 25, ירושלים"
+      },
+      "dates": {
+        "updatedAt": "2026-04-16T12:19:22",
+        "createdAt": "2026-01-07T12:16:28"
+      },
+      "abovePrice": "",
+      "packageId": 104
+    },
+    "collectedAt": "2026-04-17T08:10:44.076Z",
+    "score": 75,
+    "reasons": [
+      "Target location matched",
+      "6 rooms",
+      "Missing price may be negotiable"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:10:44.077Z"
+  },
+  {
+    "id": "8592",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "רבן יוחנן בן זכאי, קטמונים, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/8592",
+    "price": null,
+    "area": null,
+    "rooms": null,
+    "location": "רבן יוחנן בן זכאי, קטמונים, ירושלים",
+    "imageUrl": "https://cdn.yad2.treedis.com/projects/1017407/assets/mainImage/a6f7ef26-9a37-4cd8-8d09-23cbe6b71467.webp",
+    "raw": {
+      "token": "8592",
+      "treedisId": "1017407",
+      "orderId": 15753,
+      "adNumber": 1017407,
+      "adType": "yad1",
+      "categoryId": 2,
+      "slug": "de258724",
+      "subcategoryId": 99,
+      "statusId": 1,
+      "projectId": 1017407,
+      "projectYzerId": 8592,
+      "additionalDetails": {
+        "property": {
+          "id": "new",
+          "textEng": "new"
+        },
+        "projectCategories": [
+          1
+        ],
+        "companyIds": [
+          "483",
+          "1306"
+        ]
+      },
+      "packages": {
+        "displayInAreaPageYad1": true,
+        "displayInCityPageYad1": true,
+        "displayInCompanyPageYad1": true,
+        "displayInMapListing": true,
+        "displayInMapLogos": true,
+        "displayInNeighborhoodPageYad1": true,
+        "displayInTopGallery": true,
+        "isImageGalleryPromotion": true,
+        "isProListing": true,
+        "isSameEntrepreneurPromotion": true,
+        "lidInImageGallery": true,
+        "hasMiniSite": true
+      },
+      "metaData": {
+        "companyDetails": [
+          {
+            "id": "1000142",
+            "info": "חברת סלע בינוי נוסדה בשנת 2002 ומשמשת כזרוע הנדל״ן של קבוצת אמנון סלע. החברה עוסקת בייזום, שיווק ובינוי של מיזמי נדל\"ן עתירי מימון ממגוון קטגוריות כגון פרויקטים למגורים, מסחר ומשרדים בארץ ובחו״ל. החברה מתמחה בזיהוי ואיתור קרקעות ומגרשים בעלי פוטנציאל יזמי רב, וביישום שיטות בנייה מתקדמות תוך שמירה על ערכי איכות ומצוינות.\nכחלק מקבוצת אמנון סלע, נהנית סלע בינוי מגב כלכלי איתן ואיתנות פיננסית. זאת, בנוסף לניסיון הרב שצברה בשני העשורים האחרונים, מתורגמים בפועל לפרויקטים מרהיבים בהיקפים של מיליארדי שקלים הכוללים אלפי יחידות דיור ומאות אלפי מ\"ר של שטחי מסחר ומשרדים. כיום, פעילותה הענפה של החברה בתחום המגורים הינו בפריסה ארצית בערים: תל אביב, רמת-גן, ירושלים, הרצליה, חיפה, ראשל\"צ, אשדוד, נתניה, קריות, נהריה ועוד. \nלסלע בינוי מחלקת שירות לקוחות 'Sela+' המעמידה לרשות לקוחותיה צוות ליווי צמוד לאורך כל תהליך הרכישה. סלע פלוס מקפידה על סטנדרטים גבוהים של עמידה בלוחות זמנים, ביצוע בדיקות מקיפות, ויחס אישי. כך, מעניקה סלע בינוי מעטפת רחבה משלב הרכישה והתכנון ועד קבלת המפתח. \nסלע בינוי כוללת תחתיה את חברת 'סלע ביצוע' שהיא הזרוע המבצעת של הפרויקטים, בעלת סיווג קבלני ג'-5, מחזיקה בכוכב בטיחות וידועה כמצטיינת בעמידה בלוחות זמנים ובשמירה על עקרונות הבנייה הירוקה והבטיחות, בזכות כוח אדם איכותי ועתיר ניסיון. \nסלע בינוי מחזיקה גם בחברת הבת 'סלע ריאלטי'. סלע ריאלטי הינה חברה להשקעות, ייזום וניהול של פרויקטים בתחום הנדל\"ן המניב. בין הפרויקטים שבבעלות החברה, ניתן למנות מרכזים מסחריים, בנייני משרדים, מרכזים גריאטריים ומתחמי תעשייה ולוגיסטיקה.\nחברת בת נוספת של סלע בינוי היא 'סלע עגורנים', חברת עגורני הצריח וכלי הצמ\"ה של קבוצת סלע. החברה בעלת צי של עשרות עגורני צריח חדשים וחדישים המשמשים הן את פעילות הקבוצה והן את שותפיה ולקוחותיה בעולם הבנייה והנדל\"ן. החברה בנתה מערך תכנון הנדסי, שירות, תפעול ותחזוקה מהמתקדמים בענף ועתידה להכפיל את צי העגורנים שלה בשנים הקרובות. \nלצד ניסיונה העשיר רב-השנים שצברה החברה בשני העשורים האחרונים, מצליחה סלע בינוי לשמור על רוח יזמית, צעירה וחדשנית, המתורגמת לפרויקטים פורצי דרך, הזוכים להצלחה, קצירת שבחים והוקרת תודה מהלקוחות גם שנים לאחר האכלוס. \n\n\n",
+            "name": "סלע בינוי",
+            "logo": "https://cdn.yad2.treedis.com/clients/1000142/logo.png"
+          },
+          {
+            "id": "1000226",
+            "info": "הוקמה בשנת 1997 , פעילה בתחום הנדל\"ן והתיירות בישראל ובעולם, ומהווה את זרוע הנדל\"ן של\nאיסתא ליינס - חברת הנסיעות הגדולה בישראל, הנסחרת בבורסה לניירות ערך בתל אביב. לקבוצה\nפעילות ענפה בתחום המלונאות והיא מחזיקה ב 12- בתי מלון )פעילים ובהקמה( בארץ ובעולם,\nאזורי תעשייה עתירת ידע, מרכזים לוגיסטיים, בנייני משרדים, שטחי אחסנה, מעונות סטודנטים\nופרויקטים למגורים בתחום ההתחדשות העירונית ומחיר למשתכן.\nההון האנושי של הקבוצה, הערכים והניסיון הרב של העומדים בראשה, כמו גם איתנותה הפיננסית,\nמבססים את מעמדה של חברת איסתא נכסים כחברת נדל\"ן יציבה ומשמעותית בשוק הנדל\"ן\nבישראל. בין השאר, שותפה החברה, יחד עם חברת סלע בינוי והשקעות, להקמת פרויקט הדרים\nבשכונת גליל ים הרצליה, פרויקט רמת אפעל החדשה, פרויקט מגדלי הקונסוליה בשכונת ארנונה\nבירושלים ופרויקט TOO TOWERS בשכונת הנרקיסים בראשל״צ. בנוסף, מעורבת החברה בכ 15-\nפרויקטים שונים של תמ\"א 38 בתל אביב, הרצליה, רמת גן ובת ים.\n\n",
+            "name": "קבוצת איסתא נכסים",
+            "logo": "https://cdn.yad2.treedis.com/clients/1000226/logo.png"
+          }
+        ],
+        "flag": "פרויקט חדש",
+        "info": "ירושלים, אין עוד עיר כזאת בעולם. העוצמה, הקדושה, היופי. אבל כדי למצוא פה את השקט, צריך לדעת למצוא פיסת אדמה במקום הנכון. בלב ירושלים, בשטח המשתלה ההיסטורית של חוות הנוער הציוני, מקימות חברות סלע בינוי ואיסתא נדל\"ן את מתחם המשתלה.\n \nמתחם מגורים האקסקלוסיבי בלב הקהילה השלווה והאיכותית של קטמון הוותיקה, בעיצובו של משרד האדריכלים אילן פיבקו, יאפשר לכם להתחבר לטבע מבלי לוותר על העיר. אז בואו להצמיח שורשים במרכז ירושלים. כאן, קרוב למרכז העיר, באווירה הקסומה של שכונת קטמון,צומח בימים אלה אחד המתחמים המסקרנים והמדוברים ביותר בירושלים.\n \nעל תכנון מתחם המשתלה חתום אילן פיבקו, אייקון בעולם האדריכלות הישראלית העכשווית, שעיצב עבורכם סביבת מגורים מושלמת. מגע יד האמן של פיבקו ניכר בכל פרט ופרט במתחם, בכל אחד מהבניינים ובכל אחת מהדירות.\nבמתחם המשתלה, המתפרס על פני כ ‏23 ‏- דונם, נבנות בימים אלה כ ‏- ‏361 דירות חדשות ב ‏6 ‏- בניינים מרהיבים בני ‏10‏-‏14 קומות עם חניון תת‏-קרקעי מתקדם ומאובטח. מיקומו האטרקטיבי של המתחם, תפיסת המרחב החדשנית, הבנייה הירוקה והסטנדרטים הגבוהים של חברות סלע בינוי, איסתא נדל\"ן והאדריכל אילן פיבקו ‏- הופכים את מתחם המשתלה למפגש פסגה של איכות, סגנון ויוקרה, המשתלב בסביבה ומעשיר אותה.\n \nהמתחם החדשני והמסוגנן מציע חוויית מגורים אקסקלוסיבית ומלאת השראה בלב לבה של ירושלים. לכל אחד מהבניינים לובי אלגנטי ורחב ידיים, מעליות מהירות ולוביים מעוצבים בכל קומה. בנוסף, עתידים להעשיר את המתחם שטחי מסחר, מבני ציבור ושטח ציבורי פתוח, הכולל פיתוח סביבתי עשיר ומרשים. שכונה ירוקה מבחוץ וקסומה מבפנים.\n",
+        "infoHeader": "בואו להצמיח שורשים במרכז ירושלים\nדירות ‏2,3,4 חדרים במתחם מגורים אקסקלוסיבי!",
+        "projectName": "המשתלה",
+        "promotionText": "מתחם מגורים אקסקלוסיבי!",
+        "projectLogo": "https://cdn.yad2.treedis.com/projects/1017407/assets/logo/85ff4a68-9bcc-4d15-9e8d-c0ca7a4c5b93.jpg",
+        "coverImage": "https://cdn.yad2.treedis.com/projects/1017407/assets/mainImage/a6f7ef26-9a37-4cd8-8d09-23cbe6b71467.webp",
+        "images": [
+          "https://cdn.yad2.treedis.com/projects/1017407/assets/mainImage/a6f7ef26-9a37-4cd8-8d09-23cbe6b71467.webp",
+          "https://cdn.yad2.treedis.com/projects/1017407/assets/gallery/3d46138c-7122-4cf5-8524-64216fec3d46.webp"
+        ],
+        "previewType": "2d",
+        "promotionImage": "https://cdn.yad2.treedis.com/projects/1017407/assets/promotion/feff3fb1-98b9-402a-a7c7-ba9a8e6e5bee.webp"
+      },
+      "address": {
+        "region": {
+          "id": "6",
+          "text": "ירושלים והסביבה"
+        },
+        "topArea": {
+          "id": "100",
+          "text": "מחוז ירושלים"
+        },
+        "area": {
+          "id": "7",
+          "text": "אזור ירושלים"
+        },
+        "city": {
+          "id": "3000",
+          "text": "ירושלים"
+        },
+        "neighborhood": {
+          "id": "509",
+          "text": "קטמונים"
+        },
+        "street": {
+          "id": "1321",
+          "text": "רבן יוחנן בן זכאי"
+        },
+        "coords": {
+          "lat": 31.75815964,
+          "lon": 35.20695877
+        },
+        "house": {
+          "number": 50
+        },
+        "addressMasterId": "5623257",
+        "display": "רבן יוחנן בן זכאי 50, ירושלים"
+      },
+      "dates": {
+        "updatedAt": "2026-04-15T15:30:58",
+        "createdAt": "2025-03-12T11:31:56"
+      },
+      "abovePrice": "",
+      "packageId": 104
+    },
+    "collectedAt": "2026-04-17T08:10:44.076Z",
+    "score": 65,
+    "reasons": [
+      "Target location matched",
+      "Missing price may be negotiable"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:10:44.077Z"
+  },
+  {
+    "id": "15266",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "בוליביה, קרית היובל, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/15266",
+    "price": null,
+    "area": null,
+    "rooms": 5,
+    "location": "בוליביה, קרית היובל, ירושלים",
+    "imageUrl": "https://cdn.yad2.treedis.com/projects/1000235/assets/mainImage/707b0335-b080-422f-8376-8c36dbca5934.jpg",
+    "raw": {
+      "token": "15266",
+      "treedisId": "1000235",
+      "orderId": 22991,
+      "adNumber": 1000235,
+      "adType": "yad1",
+      "categoryId": 2,
+      "slug": "e00df958",
+      "subcategoryId": 99,
+      "statusId": 1,
+      "projectId": 1000235,
+      "projectYzerId": 15266,
+      "additionalDetails": {
+        "property": {
+          "id": "new",
+          "textEng": "new"
+        },
+        "projectCategories": [
+          1
+        ],
+        "maxPrice": 0,
+        "companyIds": [
+          "9"
+        ],
+        "roomsCount": 5,
+        "minRooms": 0,
+        "maxRooms": 5,
+        "maxSquaremeter": 0
+      },
+      "packages": {
+        "displayInAreaPageYad1": true,
+        "displayInCityPageYad1": true,
+        "displayInCompanyPageYad1": true,
+        "displayInMapListing": true,
+        "displayInMapLogos": true,
+        "displayInNeighborhoodPageYad1": true,
+        "displayInTopGallery": true,
+        "isImageGalleryPromotion": true,
+        "isProListing": true,
+        "isSameEntrepreneurPromotion": true,
+        "lidInImageGallery": true,
+        "hasMiniSite": true
+      },
+      "metaData": {
+        "companyDetails": [
+          {
+            "id": "1000004",
+            "info": "אפריקה ישראל מגורים בונה עבורכם את הנוסחה המנצחת לקהילות מגורים איכותיות, המשלבות תכנון אופטימלי וסטנדרט בנייה גבוה, פיתוח סביבתי מותאם למשפחות והרמוניה מושלמת בין מרכזי מסחר ופנאי וריאות ירוקות עם איתנות פיננסית וניסיון של כ‏– ‏90 שנות בנייה ישראלית. אנחנו נבנה את העתיד שלכם וניתן לכם מענה בכל עולמות הבינוי: התחדשות עירונית, פינוי בינוי, מגורי יוקרה, דיור להשכרה לטווח ארוך ונכסים מניבים.\nכי אפריקה ישראל מגורים זה בית לחיים.\n",
+            "name": "אפריקה ישראל מגורים",
+            "logo": "https://cdn.yad2.treedis.com/clients/1000004/logo.png"
+          }
+        ],
+        "flag": "פרויקט במבצע",
+        "info": "עם הטבה ייחודית:\n‏555,000 ‏₪ בלבד והיתרה באכלוס + פטור ממדד!\nאכלוס בעוד ‏24 חודשים.\nהזדמנות אחרונה להתקדם לסביוני קריית יובל ‏- כל הטוב של ירושלים:\n‏-נוף צלול כיין\n‏-מיקום מנצח עם נגישות מושלמת לצירים המרכזיים ולקניון מלחה\n‏-שדרות מסחר, שבילי אופניים וגינות ציבוריות\n‏-סמוך לקו הסגול של הרכבת הקלה\n‏-מפרט עשיר בבנייה איכותית וקפדנית\n \nהבניה בעיצומה\nבואו למצוא את הדירה שלכם\n",
+        "infoHeader": "\nדירת ‏5 חדרים א‏-ח‏-ר‏-ו‏-נ‏-ה\nבפרויקט המבוקש סביוני קריית יובל בירושלים!\n\n \n",
+        "projectName": "סביוני קריית יובל, ירושלים",
+        "promotionText": "דירת 5 חדרים א-ח-ר-ו-נ-ה",
+        "projectLogo": "https://cdn.yad2.treedis.com/projects/1000235/assets/logo/83cbb94e-5578-4548-b4d6-b90dac7c9d7b.webp",
+        "coverImage": "https://cdn.yad2.treedis.com/projects/1000235/assets/mainImage/707b0335-b080-422f-8376-8c36dbca5934.jpg",
+        "images": [
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/mainImage/707b0335-b080-422f-8376-8c36dbca5934.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/a2939b4c-d7ac-4f86-a94b-c7e2c2dce75a.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/c555ddb1-59a1-4fe2-99c5-b71d0ae0c567.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/5982254e-f29e-4eec-86e6-47fc3cd79caf.webp",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/51b315fd-f962-4a13-8415-6a066d33a5bf.webp",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/2bc73dc6-e8ff-42f9-a57d-47e372d11aaf.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/2cd2311b-db35-469e-a583-eb60e79cff05.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/22377965-aec3-4b4e-8580-4dc9926a39bd.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/1a5f4dbe-7954-416c-ae88-17eeeae0f526.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/0cd59406-02eb-4f33-b1e7-edb8655d6360.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/3af9f888-d0bb-4418-9d50-e36ea2db8b1e.jpg",
+          "https://cdn.yad2.treedis.com/projects/1000235/assets/gallery/4bb72e6f-81d3-46cc-b6e6-c2fce703ca54.jpg"
+        ],
+        "previewType": "2d",
+        "promotionImage": "https://cdn.yad2.treedis.com/projects/1000235/assets/promotion/b7ee410f-008d-4376-a8fc-0e39fa1cd20e.webp"
+      },
+      "address": {
+        "region": {
+          "id": "6",
+          "text": "ירושלים והסביבה"
+        },
+        "topArea": {
+          "id": "100",
+          "text": "מחוז ירושלים"
+        },
+        "area": {
+          "id": "7",
+          "text": "אזור ירושלים"
+        },
+        "city": {
+          "id": "3000",
+          "text": "ירושלים"
+        },
+        "neighborhood": {
+          "id": "555",
+          "text": "קרית היובל"
+        },
+        "street": {
+          "id": "1237",
+          "text": "בוליביה"
+        },
+        "coords": {
+          "lat": 31.75475121,
+          "lon": 35.17813873
+        },
+        "house": {
+          "number": 14
+        },
+        "addressMasterId": "5969441",
+        "display": "בוליביה 14, קרית היובל, ירושלים"
+      },
+      "dates": {
+        "updatedAt": "2026-04-14T16:14:55",
+        "createdAt": "2025-01-12T11:01:28"
+      },
+      "abovePrice": "",
+      "packageId": 104
+    },
+    "collectedAt": "2026-04-17T08:10:44.076Z",
+    "score": 75,
+    "reasons": [
+      "Target location matched",
+      "5 rooms",
+      "Missing price may be negotiable"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:10:44.077Z"
+  },
+  {
+    "id": "4ysmykhg",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "דירה - יהודה הלוי, מרכז העיר דרום, נתניה",
+    "url": "https://www.yad2.co.il/realestate/item/4ysmykhg",
+    "price": 1890000,
+    "area": 103,
+    "rooms": 3.5,
+    "location": "יהודה הלוי, מרכז העיר דרום, נתניה",
+    "imageUrl": "https://img.yad2.co.il/Pic/202601/29/2_5/o/y2_6_0epbDzeUJv_20260129.png",
+    "raw": {
+      "address": {
+        "region": {
+          "text": "מרכז והשרון",
+          "id": 1
+        },
+        "city": {
+          "text": "נתניה"
+        },
+        "area": {
+          "text": "אזור נתניה והסביבה"
+        },
+        "neighborhood": {
+          "text": "מרכז העיר דרום"
+        },
+        "street": {
+          "text": "יהודה הלוי"
+        },
+        "house": {
+          "floor": 2
+        },
+        "coords": {
+          "lon": 34.8566359882353,
+          "lat": 32.3199854705882
+        }
+      },
+      "subcategoryId": 5,
+      "categoryId": 2,
+      "adType": "commercial",
+      "price": 1890000,
+      "token": "4ysmykhg",
+      "additionalDetails": {
+        "property": {
+          "text": "דירה"
+        },
+        "roomsCount": 3.5,
+        "squareMeter": 103,
+        "propertyCondition": {
+          "id": 3
+        }
+      },
+      "metaData": {
+        "coverImage": "https://img.yad2.co.il/Pic/202601/29/2_5/o/y2_6_0epbDzeUJv_20260129.png",
+        "images": [
+          "https://img.yad2.co.il/Pic/202601/29/2_5/o/y2_6_0epbDzeUJv_20260129.png",
+          "https://img.yad2.co.il/Pic/202601/29/2_5/o/y2_4_Z8KxKlE2Iv_20260129.png",
+          "https://img.yad2.co.il/Pic/202601/29/2_5/o/y2_7_j6Ysy1jvKg_20260129.png",
+          "https://img.yad2.co.il/Pic/202601/29/2_5/o/y2_7_sozd7nIMvY_20260129.png",
+          "https://img.yad2.co.il/Pic/202601/29/2_5/o/y2_3_rS1yESo5o8_20260129.png",
+          "https://img.yad2.co.il/Pic/202601/01/2_5/o/y2_1_ktXLcVVExS_20260101.jpg",
+          "https://img.yad2.co.il/Pic/202601/01/2_5/o/y2_2_mhrSEWIx4d_20260101.jpg"
+        ]
+      },
+      "customer": {
+        "agencyName": "NadlanisTeam",
+        "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/y2_1_01244_20200305090328.jpeg?t=1776409978481"
+      },
+      "tags": [],
+      "orderId": 56395869,
+      "priority": 1,
+      "packages": {}
+    },
+    "collectedAt": "2026-04-17T08:10:44.076Z",
+    "score": 50,
+    "reasons": [
+      "Price under 8500000",
+      "Outside target location",
+      "3.5 rooms",
+      "Strategic zone matched"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:10:44.077Z"
+  },
+  {
+    "id": "0r8dljrg",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "בית פרטי/ קוטג' - רבי בנימין, בית הכרם, רמת בית הכרם, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/0r8dljrg",
+    "price": 6300000,
+    "area": 121,
+    "rooms": 5,
+    "location": "רבי בנימין, בית הכרם, רמת בית הכרם, ירושלים",
+    "imageUrl": "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010138_20250306114259.jpeg",
+    "raw": {
+      "address": {
+        "region": {
+          "text": "ירושלים והסביבה",
+          "id": 6
+        },
+        "city": {
+          "text": "ירושלים"
+        },
+        "area": {
+          "text": "אזור ירושלים"
+        },
+        "neighborhood": {
+          "text": "בית הכרם, רמת בית הכרם"
+        },
+        "street": {
+          "text": "רבי בנימין"
+        },
+        "house": {
+          "number": 11,
+          "floor": 0
+        },
+        "coords": {
+          "lon": 35.195045,
+          "lat": 31.781824
+        }
+      },
+      "subcategoryId": 5,
+      "categoryId": 2,
+      "adType": "commercial",
+      "price": 6300000,
+      "token": "0r8dljrg",
+      "additionalDetails": {
+        "property": {
+          "text": "בית פרטי/ קוטג'"
+        },
+        "roomsCount": 5,
+        "squareMeter": 121,
+        "propertyCondition": {
+          "id": 2
+        }
+      },
+      "metaData": {
+        "coverImage": "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010138_20250306114259.jpeg",
+        "images": [
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010138_20250306114259.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010316_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010484_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010823_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010038_20250306114259.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010041_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010111_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010404_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010164_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010087_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010564_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010318_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010522_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010516_20250306114300.jpeg",
+          "https://img.yad2.co.il/Pic/202503/06/2_5/o/y2_1pa_010231_20250306114300.jpeg"
+        ],
+        "squareMeterBuild": 121
+      },
+      "customer": {
+        "agencyName": "רות שניידרמן",
+        "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/logo100_2_7_744296_20190828090858-l.jpg?t=1776405267516"
+      },
+      "tags": [],
+      "orderId": 55094976,
+      "priority": 1,
+      "packages": {}
+    },
+    "collectedAt": "2026-04-17T08:10:44.076Z",
+    "score": 85,
+    "reasons": [
+      "Price under 8500000",
+      "Target location matched",
+      "5 rooms"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:10:44.077Z"
+  },
+  {
+    "id": "14491",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "דרך חברון, תלפיות, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/14491",
+    "price": null,
+    "area": null,
+    "rooms": 5,
+    "location": "דרך חברון, תלפיות, ירושלים",
+    "imageUrl": "https://cdn.yad2.treedis.com/projects/1000205/assets/mainImage/0df77ca5-f407-4b80-85de-9d21cc6a38a4.webp",
+    "raw": {
+      "token": "14491",
+      "treedisId": "1000205",
+      "orderId": 21959,
+      "adNumber": 1000205,
+      "adType": "yad1",
+      "categoryId": 2,
+      "slug": "23c5caf9",
+      "subcategoryId": 99,
+      "statusId": 1,
+      "projectId": 1000205,
+      "projectYzerId": 14491,
+      "additionalDetails": {
+        "property": {
+          "id": "new",
+          "textEng": "new"
+        },
+        "projectCategories": [
+          1
+        ],
+        "minPrice": 2995000,
+        "maxPrice": 4500000,
+        "companyIds": [
+          "233"
+        ],
+        "roomsCount": 5,
+        "minRooms": 3,
+        "maxRooms": 5,
+        "minSquaremeter": 88,
+        "maxSquaremeter": 123
+      },
+      "packages": {
+        "displayInAreaPageYad1": true,
+        "displayInCityPageYad1": true,
+        "displayInCompanyPageYad1": true,
+        "displayInMapListing": true,
+        "displayInMapLogos": true,
+        "displayInNeighborhoodPageYad1": true,
+        "displayInTopGallery": true,
+        "isImageGalleryPromotion": true,
+        "isProListing": true,
+        "isSameEntrepreneurPromotion": true,
+        "lidInImageGallery": true,
+        "hasMiniSite": true
+      },
+      "metaData": {
+        "companyDetails": [
+          {
+            "id": "1000015",
+            "info": "חברת קרסו נדל\"ן בע\"מ, הינה יזמית נדל\"ן הפועלת מאז 1933 ונחשבת לאחת החברות הוותיקות והמנוסות ביותר במשק הישראלי. החברה הטביעה את חותמה במאות פרויקטים גדולים בענף, בין היתר בתחום המגורים, המסחר, משרדים ובנייה להייטק.\nבשנים האחרונות משקיעה החברה את מיטב המשאבים על פיתוח, תכנון והקמה של מגוון פרויקטים מתקדמים המשקפים סגנון חיים נשאף ועדכני, ומעניקים חוויות מגורים יוצאות דופן, זאת באמצעות מחקר תרבותי מקיף, הכרה עמוקה של קהל היעד ומענה על צרכיו הקבועים והדינמיים .\nקרסו היא מהחברות המובילות בהתחדשות עירונית (פינוי בינוי, תמ\"א 38) ומשתתפת במדדים היוקרתיים דן אנד ברדסטרייט, CODE BDI ומדד ההתחדשות העירונית, המגדירים סטנדרטים מובחרים לאיכויות מוצר, שירות וניסיון\n",
+            "name": "קרסו נדלן",
+            "logo": "https://cdn.yad2.treedis.com/clients/1000015/logo.png"
+          }
+        ],
+        "flag": "פרויקט חדש",
+        "info": "ברוכים הבאים ל\"קרסו ניה\" ‏– פרויקט הדגל של חברת קרסו נדל\"ן, הממוקם על דרך בית לחם, בסמוך לשכונות היוקרתיות בקעה והמושבה הגרמנית.\n\nחוויית מגורים בסטנדרט קרסו- שלושה בנייני בוטיק יוקרתיים: בגובה ‏14‏–‏15 קומות, המעוצבים בקפידה, ומציעים חוויית מגורים ייחודית ואקסקלוסיבית.\n- מגדל מגורים מרהיב: מתנשא לגובה של ‏33 קומות, המשקיף לנופים פנורמיים עוצרי נשימה של ירושלים וסביבתה.\n- דירות בתכנון חכם: חללים מרווחים ומוארים, מרפסות לנוף ירושלמי ותכנון שמתאים בדיוק לצרכים שלכם.\n\nהתכוננו למהפכה בחוויית התחבורה שלכםמיקומו האסטרטגי של הפרויקט מציב אתכם בנקודת המפתח של מערכת תחבורה עירונית מתקדמת ויעילה:\n- ציר הרכבת הקלה החדשני, הממוקם ממש בסמוך לפרויקט, מחבר אתכם במהירות ובבטחה לכל נקודה מרכזית בירושלים. \n- דרך חברון  המחובר ישירות לרחוב דוד המלך, מוביל אתכם בקלות ללב הפועם של העיר.\n- כביש בגין שמחבר בין כל חלקי העיר ומאפשר יציאה מהירה ונוחה לכביש ‏16 החדש.\n\nקרסו ניה - נוחות אורבנית ותחושת קהילה ייחודית- מרכז מסחרי תוסס: לנוחות הדיירים והמבקרים.\n- בלב המתחם גינה ירוקה ומטופחת: ריאה ירוקה בלב העיר, המשמשת כמרחב של שלווה ומפגשים קהילתיים.\n- חדר כושר מאובזר ומרשים.\n- רופטופ רחב ידיים: מרפסת גג ייחודית לפעילויות קהילתיות ומפגשים חברתיים מול נוף פנורמי עוצר נשימה של ירושלים. \n- לובאים מעוצבים: כניסות יוקרתיות ומזמינות לכל בניין, המעוצבות בסגנון מודרני ומוקפד. \n- חיי קהילה תוססים: חדר דיירים מרווח המותאם לאירועים מפגשים ושיתופי פעולה חברתיים.\n",
+        "infoHeader": "קרסו ניה בדרך בית לחם, ירושלים, מתחם מגורים לאנשים בתנועהדירות ‏3-5 חדרים החל מ- ‏2,995,000 ש\"ח \nPRE-SALE",
+        "projectName": "קרסו ניה",
+        "promotionText": "תנאי מימון מיוחדים",
+        "projectLogo": "https://cdn.yad2.treedis.com/projects/1000205/assets/logo/af8f7081-9368-4a8f-9a49-f7bcdf5ec086.webp",
+        "coverImage": "https://cdn.yad2.treedis.com/projects/1000205/assets/mainImage/0df77ca5-f407-4b80-85de-9d21cc6a38a4.webp",
+        "images": [
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/mainImage/0df77ca5-f407-4b80-85de-9d21cc6a38a4.webp",
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/gallery/03e63544-3f8f-429a-97b6-4c7238fbb615.webp",
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/gallery/e860f825-aeb2-4951-9912-620d63f7faac.webp",
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/gallery/71d23fe3-31b9-46b8-bc5a-def4c702e30e.webp",
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/gallery/4204ebaf-b028-4301-921d-8f2e6c92a0d5.webp",
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/gallery/8715b698-0c12-4e09-a4d7-8e320fc5909e.webp",
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/gallery/903e83d3-dc6d-4494-94b3-6e761cdb605f.webp",
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/gallery/c4315793-8749-42de-ad57-000064fafd71.webp",
+          "https://cdn.yad2.treedis.com/projects/1000205/assets/gallery/df077312-c4fe-43aa-b074-2990b7bc022f.webp"
+        ],
+        "previewType": "2d"
+      },
+      "address": {
+        "region": {
+          "id": "6",
+          "text": "ירושלים והסביבה"
+        },
+        "topArea": {
+          "id": "100",
+          "text": "מחוז ירושלים"
+        },
+        "area": {
+          "id": "7",
+          "text": "אזור ירושלים"
+        },
+        "city": {
+          "id": "3000",
+          "text": "ירושלים"
+        },
+        "neighborhood": {
+          "id": "375",
+          "text": "תלפיות"
+        },
+        "street": {
+          "id": "1714",
+          "text": "דרך חברון"
+        },
+        "coords": {
+          "lat": 31.74941444,
+          "lon": 35.21834183
+        },
+        "house": {
+          "number": 132
+        },
+        "addressMasterId": "5683483",
+        "display": "דרך בית לחם 128-130, תלפיות, ירושלים"
+      },
+      "dates": {
+        "updatedAt": "2026-03-21T02:00:14",
+        "createdAt": "2025-01-12T11:01:16"
+      },
+      "abovePrice": "",
+      "packageId": 104
+    },
+    "collectedAt": "2026-04-17T08:18:26.825Z",
+    "score": 75,
+    "reasons": [
+      "Target location matched",
+      "5 rooms",
+      "Missing price may be negotiable"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:18:26.827Z"
+  },
+  {
+    "id": "18853",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "שמעון מישורי, מורדות ארנונה, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/18853",
+    "price": null,
+    "area": null,
+    "rooms": 4,
+    "location": "שמעון מישורי, מורדות ארנונה, ירושלים",
+    "imageUrl": "https://cdn.yad2.treedis.com/projects/1019195/assets/mainImage/4ff8865e-d9d6-43f7-8d0d-01c662f15217.webp",
+    "raw": {
+      "token": "18853",
+      "treedisId": "1019195",
+      "orderId": 1019195,
+      "adNumber": 1019195,
+      "adType": "yad1",
+      "categoryId": 2,
+      "slug": "657f18dd",
+      "subcategoryId": 99,
+      "statusId": 1,
+      "projectId": 1019195,
+      "projectYzerId": 18853,
+      "additionalDetails": {
+        "projectCategories": [
+          2
+        ],
+        "minPrice": 6400,
+        "maxPrice": 7400,
+        "companyIds": [
+          "9"
+        ],
+        "roomsCount": 4,
+        "minRooms": 2,
+        "maxRooms": 4,
+        "maxSquaremeter": 0
+      },
+      "packages": {
+        "displayInAreaPageYad1": true,
+        "displayInCityPageYad1": true,
+        "displayInCompanyPageYad1": true,
+        "displayInMapListing": true,
+        "displayInMapLogos": true,
+        "displayInNeighborhoodPageYad1": true,
+        "displayInTopGallery": true,
+        "isImageGalleryPromotion": true,
+        "isProListing": true,
+        "isSameEntrepreneurPromotion": true,
+        "isYad1ListingPromo": true,
+        "isYad1ListingSoloAd": true,
+        "lidInImageGallery": true,
+        "hasMiniSite": true
+      },
+      "metaData": {
+        "companyDetails": [
+          {
+            "id": "1000004",
+            "info": "אפריקה ישראל מגורים בונה עבורכם את הנוסחה המנצחת לקהילות מגורים איכותיות, המשלבות תכנון אופטימלי וסטנדרט בנייה גבוה, פיתוח סביבתי מותאם למשפחות והרמוניה מושלמת בין מרכזי מסחר ופנאי וריאות ירוקות עם איתנות פיננסית וניסיון של כ‏– ‏90 שנות בנייה ישראלית. אנחנו נבנה את העתיד שלכם וניתן לכם מענה בכל עולמות הבינוי: התחדשות עירונית, פינוי בינוי, מגורי יוקרה, דיור להשכרה לטווח ארוך ונכסים מניבים.\nכי אפריקה ישראל מגורים זה בית לחיים.\n",
+            "name": "אפריקה ישראל מגורים",
+            "logo": "https://cdn.yad2.treedis.com/clients/1000004/logo.png"
+          }
+        ],
+        "flag": "פרויקט במבצע",
+        "info": "סביוני מורדות ארנונה FOR RENT מציע חוויית מגורים חדשה עם דירות להשכרה בירושלים.\nבקומפלקס חדש הכולל ‏9 בניינים עם דירות לשכירות לטווח ארוך בירושלים, בשכונת מורדות ארנונה המתפתחת, מחכה לכם נותרו דירות של 2-4 חדרים ודירות גן, בסטנדרט בנייה גבוה, עם חניה ומחסן.\nכולן מתוכננות בסטנדרט בנייה גבוה, עם ניהול מקצועי, חוזים ברורים ושקט נפשי. כדי שתוכלו ליהנות ממגורים בטוחים, איכותיים ויציבים לשנים קדימה.\n \nלאחר ההצלחה בהרצליה ובשהם, שם הובלנו את מודל הדיור להשכרה ארוכת טווח בישראל, אנחנו עושים\nזאת שוב ‏– והפעם בלב ירושלים, בשכונת סביוני מורדות ארנונה המתפתחת.\nאפריקה ישראל מגורים בשיתוף 'רנטן' מבית דירה להשכיר, מקימות את קומפלקס סביוני מורדות ארנונה For Rent מציע כ‏-204 דירות חדשות להשכרה לטווח ארוך, מתוכן ‏153 דירות להשכרה בשוק החופשי. \n",
+        "infoHeader": "שכירות עם ודאות! שכירות ארוכת טווח בירושלים\nאכלוס: יוני ‏2026.\n",
+        "projectName": "סביוני מורדות ארנונה for Rent ירושלים",
+        "promotionText": "שכירות ארוכת טווח!",
+        "projectLogo": "https://cdn.yad2.treedis.com/projects/1019195/assets/logo/378805fa-2700-4929-a5bf-407855f0495c.webp",
+        "coverImage": "https://cdn.yad2.treedis.com/projects/1019195/assets/mainImage/4ff8865e-d9d6-43f7-8d0d-01c662f15217.webp",
+        "images": [
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/mainImage/4ff8865e-d9d6-43f7-8d0d-01c662f15217.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/3114937c-33fa-478f-b3af-2d55407870c3.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/e600798a-d716-47e3-a1ca-078de9ca4e33.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/6bac6c4b-cc35-4ab4-8e94-98d756c38c83.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/ebd07163-3c21-4b31-ad3e-827e1c2b6ce1.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/45323ba7-e359-4b13-90ee-72285f75fe66.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/d238fbb6-fc38-426c-ace4-210e365ff4f2.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/37c283a8-5568-41e6-8ff5-13f6ce056c33.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/a799dcbc-5ace-448b-bf01-c4bb0bef4fe1.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/c35607d6-2e1d-4f5f-8f23-876c293ba094.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/26b86ecf-00d9-4a02-9a48-2d2baf776b22.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/7a6bb54d-0931-483d-b5fc-577db6a72e52.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/ad32f38d-0941-4d5f-98bc-51d25a0f5f2d.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/f5eb64c1-04a7-4070-b21d-52e126cc78f4.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/6e7ebb06-adba-4feb-9bb3-2540c9894825.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/95c0a91e-f851-43bb-95ca-9cf8087550b9.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/1296de4a-c691-4a0a-9071-31153d6f1d71.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/b932f64b-acc5-4f4f-a036-b348d22ecc56.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/186285f3-4bba-4b80-b549-e01de7818296.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/cf5b3d83-0853-4dbe-96ab-986e633774e5.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/499db227-691b-4b34-84f6-bcc8aa083b79.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/bc34dacc-6102-44e3-a575-c3447b45ffc9.webp",
+          "https://cdn.yad2.treedis.com/projects/1019195/assets/gallery/9ab03ffa-9b8b-497f-90ba-fef14aedf602.webp"
+        ],
+        "previewType": "2d",
+        "promotionImage": "https://cdn.yad2.treedis.com/projects/1019195/assets/promotion/430c7bdb-0a4f-4e89-9917-b4aa111654eb.webp"
+      },
+      "address": {
+        "region": {
+          "id": "6",
+          "text": "ירושלים והסביבה"
+        },
+        "topArea": {
+          "id": "100",
+          "text": "מחוז ירושלים"
+        },
+        "area": {
+          "id": "7",
+          "text": "אזור ירושלים"
+        },
+        "city": {
+          "id": "3000",
+          "text": "ירושלים"
+        },
+        "neighborhood": {
+          "id": "991515",
+          "text": "מורדות ארנונה"
+        },
+        "street": {
+          "id": "0494",
+          "text": "שמעון מישורי"
+        },
+        "coords": {
+          "lat": 31.742581,
+          "lon": 35.224654
+        },
+        "house": {
+          "number": 1
+        },
+        "addressMasterId": "24137864",
+        "display": "שמעון מישורי 5, מורדות ארנונה, ירושלים"
+      },
+      "dates": {
+        "updatedAt": "2026-04-15T19:26:51",
+        "createdAt": "2026-01-07T17:32:11"
+      },
+      "abovePrice": "",
+      "packageId": 104
+    },
+    "collectedAt": "2026-04-17T08:18:26.825Z",
+    "score": 75,
+    "reasons": [
+      "Target location matched",
+      "4 rooms",
+      "Missing price may be negotiable"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:18:26.827Z"
+  },
+  {
+    "id": "8jtdpllh",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "דירה - בילינסון, צפון מערב מרכז העיר, נתניה",
+    "url": "https://www.yad2.co.il/realestate/item/8jtdpllh",
+    "price": 2750000,
+    "area": 135,
+    "rooms": 5,
+    "location": "בילינסון, צפון מערב מרכז העיר, נתניה",
+    "imageUrl": "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010358_20250911183056.jpeg",
+    "raw": {
+      "address": {
+        "region": {
+          "text": "מרכז והשרון",
+          "id": 1
+        },
+        "city": {
+          "text": "נתניה"
+        },
+        "area": {
+          "text": "אזור נתניה והסביבה"
+        },
+        "neighborhood": {
+          "text": "צפון מערב מרכז העיר"
+        },
+        "street": {
+          "text": "בילינסון"
+        },
+        "house": {
+          "floor": 3
+        },
+        "coords": {
+          "lon": 34.85788572,
+          "lat": 32.337455
+        }
+      },
+      "subcategoryId": 5,
+      "categoryId": 2,
+      "adType": "commercial",
+      "price": 2750000,
+      "token": "8jtdpllh",
+      "additionalDetails": {
+        "property": {
+          "text": "דירה"
+        },
+        "roomsCount": 5,
+        "squareMeter": 135,
+        "propertyCondition": {
+          "id": 3
+        }
+      },
+      "metaData": {
+        "coverImage": "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010358_20250911183056.jpeg",
+        "images": [
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010358_20250911183056.jpeg",
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010364_20250911183121.jpeg",
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010403_20250911183145.jpeg",
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010986_20250911183156.jpeg",
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010838_20250911183205.jpeg",
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010708_20250911183212.jpeg",
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010734_20250911183220.jpeg",
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010891_20250911183226.jpeg",
+          "https://img.yad2.co.il/Pic/202509/11/2_5/o/y2_1pa_010308_20250911183232.jpeg"
+        ],
+        "squareMeterBuild": 124
+      },
+      "customer": {
+        "agencyName": "AS  נכסים",
+        "agencyLogo": null
+      },
+      "tags": [],
+      "orderId": 55934881,
+      "priority": 1,
+      "packages": {}
+    },
+    "collectedAt": "2026-04-17T08:18:26.825Z",
+    "score": 50,
+    "reasons": [
+      "Price under 8500000",
+      "Outside target location",
+      "5 rooms",
+      "Strategic zone matched"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:18:26.827Z"
+  },
+  {
+    "id": "6erwbykp",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "דירה - הבנאי, בית הכרם, רמת בית הכרם, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/6erwbykp",
+    "price": 4900000,
+    "area": 115,
+    "rooms": 4.5,
+    "location": "הבנאי, בית הכרם, רמת בית הכרם, ירושלים",
+    "imageUrl": "https://img.yad2.co.il/Pic/202603/10/2_5/o/y2_1pa_010874_20260310161607.jpeg",
+    "raw": {
+      "address": {
+        "region": {
+          "text": "ירושלים והסביבה",
+          "id": 6
+        },
+        "city": {
+          "text": "ירושלים"
+        },
+        "area": {
+          "text": "אזור ירושלים"
+        },
+        "neighborhood": {
+          "text": "בית הכרם, רמת בית הכרם"
+        },
+        "street": {
+          "text": "הבנאי"
+        },
+        "house": {
+          "floor": 3
+        },
+        "coords": {
+          "lon": 35.191421097561,
+          "lat": 31.7767096829268
+        }
+      },
+      "subcategoryId": 5,
+      "categoryId": 2,
+      "adType": "commercial",
+      "price": 4900000,
+      "token": "6erwbykp",
+      "additionalDetails": {
+        "property": {
+          "text": "דירה"
+        },
+        "roomsCount": 4.5,
+        "squareMeter": 115,
+        "propertyCondition": {
+          "id": 2
+        }
+      },
+      "inProperty": {
+        "isAssetExclusive": true
+      },
+      "metaData": {
+        "coverImage": "https://img.yad2.co.il/Pic/202603/10/2_5/o/y2_1pa_010874_20260310161607.jpeg",
+        "images": [
+          "https://img.yad2.co.il/Pic/202603/10/2_5/o/y2_1pa_010874_20260310161607.jpeg",
+          "https://img.yad2.co.il/Pic/202603/10/2_5/o/y2_1pa_010562_20260310161609.jpeg",
+          "https://img.yad2.co.il/Pic/202603/10/2_5/o/y2_1pa_010293_20260310161606.jpeg",
+          "https://img.yad2.co.il/Pic/202603/10/2_5/o/y2_1pa_010741_20260310161606.jpeg",
+          "https://img.yad2.co.il/Pic/202603/10/2_5/o/y2_1pa_010830_20260310161608.jpeg"
+        ],
+        "squareMeterBuild": 115
+      },
+      "customer": {
+        "agencyName": "אנגלו סכסון",
+        "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/logo100_2_7_722869_20190418130412-l.jpg?t=1776412108427"
+      },
+      "tags": [],
+      "orderId": 56681556,
+      "priority": 1,
+      "packages": {}
+    },
+    "collectedAt": "2026-04-17T08:43:28.399Z",
+    "score": 85,
+    "reasons": [
+      "Price under 8500000",
+      "Target location matched",
+      "4.5 rooms"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:43:28.401Z"
+  },
+  {
+    "id": "126uruzl",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "גג/ פנטהאוז - קורא הדורות, ארנונה, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/126uruzl",
+    "price": 5990000,
+    "area": 190,
+    "rooms": 6,
+    "location": "קורא הדורות, ארנונה, ירושלים",
+    "imageUrl": "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_991545_20250909134708.jpeg",
+    "raw": {
+      "address": {
+        "region": {
+          "text": "ירושלים והסביבה",
+          "id": 6
+        },
+        "city": {
+          "text": "ירושלים"
+        },
+        "area": {
+          "text": "אזור ירושלים"
+        },
+        "neighborhood": {
+          "text": "ארנונה"
+        },
+        "street": {
+          "text": "קורא הדורות"
+        },
+        "house": {
+          "floor": 2
+        },
+        "coords": {
+          "lon": 35.2220800819672,
+          "lat": 31.7490123278688
+        }
+      },
+      "subcategoryId": 5,
+      "categoryId": 2,
+      "adType": "commercial",
+      "price": 5990000,
+      "token": "126uruzl",
+      "additionalDetails": {
+        "property": {
+          "text": "גג/ פנטהאוז"
+        },
+        "roomsCount": 6,
+        "squareMeter": 190,
+        "propertyCondition": {
+          "id": 2
+        }
+      },
+      "metaData": {
+        "coverImage": "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_991545_20250909134708.jpeg",
+        "images": [
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_991545_20250909134708.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_995243_20250909134756.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_995314_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_995775_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_998395_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_997834_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_999950_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_993545_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_996920_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_998645_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_995496_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_996583_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_998371_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_998346_20250909134337.jpeg",
+          "https://img.yad2.co.il/Pic/202509/09/2_5/o/y2_1pa_994502_20250909134338.jpeg"
+        ],
+        "squareMeterBuild": 190
+      },
+      "customer": {
+        "agencyName": "תיווך זהר- בית שמואל",
+        "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/24b528d6-9301-4575-bd25-3cfcb2fb7674.jpg?t=1776409412443"
+      },
+      "tags": [],
+      "orderId": 56780641,
+      "priority": 1,
+      "packages": {}
+    },
+    "collectedAt": "2026-04-17T08:43:28.399Z",
+    "score": 85,
+    "reasons": [
+      "Price under 8500000",
+      "Target location matched",
+      "6 rooms"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-17T08:43:28.401Z"
+  },
+  {
+    "id": "18050",
+    "source": "yad2",
+    "topic": "Jerusalem apartments for sale - center",
+    "title": "מיכאל אבי יונה, רמת שרת, ירושלים",
+    "url": "https://www.yad2.co.il/realestate/item/18050",
+    "price": null,
+    "area": null,
+    "rooms": 6,
+    "location": "מיכאל אבי יונה, רמת שרת, ירושלים",
+    "sellerType": "private",
+    "sellerName": null,
+    "imageUrl": "https://cdn.yad2.treedis.com/projects/1019044/assets/mainImage/36bb4eff-f3c3-4d59-b2ef-ca84e5edbae7.webp",
+    "raw": {
+      "token": "18050",
+      "treedisId": "1019044",
+      "orderId": 1019044,
+      "adNumber": 1019044,
+      "adType": "yad1",
+      "categoryId": 2,
+      "slug": "caeabb4a",
+      "subcategoryId": 99,
+      "statusId": 1,
+      "projectId": 1019044,
+      "projectYzerId": 18050,
+      "additionalDetails": {
+        "property": {
+          "id": "new",
+          "textEng": "new"
+        },
+        "projectCategories": [
+          1
+        ],
+        "maxPrice": 0,
+        "companyIds": [
+          "1001708"
+        ],
+        "roomsCount": 6,
+        "minRooms": 3,
+        "maxRooms": 6,
+        "maxSquaremeter": 0
+      },
+      "packages": {
+        "displayInAreaPageYad1": true,
+        "displayInCityPageYad1": true,
+        "displayInCompanyPageYad1": true,
+        "displayInMapListing": true,
+        "displayInMapLogos": true,
+        "displayInNeighborhoodPageYad1": true,
+        "displayInTopGallery": true,
+        "isImageGalleryPromotion": true,
+        "isProListing": true,
+        "isSameEntrepreneurPromotion": true,
+        "lidInImageGallery": true,
+        "hasMiniSite": true
+      },
+      "metaData": {
+        "companyDetails": [
+          {
+            "id": "1001708",
+            "info": "שיתוף פעולה ייחודי בין חברת דן נדל\"ן ורמי לוי נדל\"ן,\nשתיים מחברות הנדל\"ן המובילות בישראל הביאו להקמת חברת ספיר ברקת נדל\"ן בע\"מ. החברה שמה\nלה למטרה להביא סטנדרטים חדשים של איכות בנייה, ביצוע ללא פשרות ושירות\nאישי, בשילוב גב כלכלי איתן וניסיון מוכח בשטח בהקמת עשרות פרויקטים\nשהפכו לשם דבר.\n \nחברת דן נדל\"ן הנה אחד מעמודי התווך של החברה והכלכלה הישראלית במשך\nלמעלה מ– 72 שנות קיומה. במהלך השנים צברה החברה ניסיון רב בתחומי התחבורה\nהאנרגיה, התשתיות והמקרקעין. בתחילת העשור הקודם הוקמה דן נדל\"ן חברת\nהבת והיא אמונה על הרחבת ופיתוח זרוע הנדל\"ן בקבוצה. דן נדל\"ן מתכננת\nומבצעת פרויקטים רבי היקף בתחומי המגורים, המשרדים, המסחר וההתחדשות\nהעירונית ומקדמת כיום מעל ל – 20 פרויקטים הכוללים מעל ל – 5,000 יחידות דיור\nבאזורי ביקוש ברחבי הארץ. בין הפרויקטים היוקרתיים עלי חתומה החברה -\nארלוזורוב 17 ופרויקט לייף.\n \n \nחברת רמי לוי נדל\"ן היא חלק מקבוצת רמי לוי שיווק השקמה. החברה מתמחה בניהול,\nבהקמה ובאחזקות נדל\"ן בעיקר באזור ירושלים והסביבה. ההיכרות המעמיקה של\nרמי לוי עם העיר ועם תושביה, מינוף הקשרים הענפים של החברה במשק הישראלי\nושיתוף פעולה עם טובי המומחים בתחום הנדל\"ן, הם שמביאים את החברה ליזום,\nלבצע ולהקים פרויקטים מעוררי השראה המציבים רף חדש של יוקרה, של סטנדרט\nושל איכות.\n",
+            "name": "ספיר וברקת נדל\"ן בע\"מ",
+            "logo": "https://cdn.yad2.treedis.com/clients/1001708/logo.png"
+          }
+        ],
+        "flag": "פרויקט במבצע",
+        "info": "\n Prime Jerusalemמגדיר מחדש את חוויית המגורים בירושלים. \nשלושה מגדלים מרשימים בתכנון אופטימלי משלבים בין חוץ לפנים, ממקסמים את פוטנציאל המיקום ומציעים מגוון רחב של דירות מעוצבות ומוארות.\n \nכל פרט, מהקטן ועד הגדול, תוכנן בקפידה, כדי להבטיח נוחות מקסימלית ואסתטיקה יוצאת דופן.\n Prime Jerusalem  אינו רק פרויקט מגורים ‏– זהו סגנון חיים שלם. קומפלקס יוקרתי זה מציע הזדמנות ייחודית לחוות רמת חיים גבוהה במיקום עם נגישות מהירה לכל חלקי העיר ירושלים ולכביש ‏16 ליציאה מהעיר, במרחב המשלב מגורי יוקרה, פארק ירוק, רוף גרדן ייחודי ומרכז מסחרי בוטיקי לצד\nנוחות, חיי קהילה, פרטיות ואינטימיות בלב שכונת הולילנד בירושלים.\n \nדיירי הפרויקט יהנו גם כן מחדר הכושר, לאונג׳ עסקים מרשים ורוף גרדן ייחודי, המחבר בין שלושת המגדלים ובו מקומות ישיבה, צמחייה ופרגולות המאפשרות הקמת סוכות משותפות.\n \nכל אלה מספקים סביבה נעימה ליצירת קהילה איכותית ותוססת.\n \n",
+        "infoHeader": "\nפריים ג'רוזלם, קומפלקס מגורים יוקרתי בשכונת הולילנד בירושלים\nדירות ‏3,4,5,6 חדרים, דירות גן ופנטהאוזים מפוארים\nPresale ‏| דירות ‏4 חד' החל מ: ‏3,890,000 ‏₪\n",
+        "projectName": "Prime jerusalem",
+        "promotionText": "Presale | Prime Jerusalem",
+        "projectLogo": "https://cdn.yad2.treedis.com/projects/1019044/assets/logo/379fe8c0-3087-46ac-af3c-5865d1e8192f.webp",
+        "coverImage": "https://cdn.yad2.treedis.com/projects/1019044/assets/mainImage/36bb4eff-f3c3-4d59-b2ef-ca84e5edbae7.webp",
+        "images": [
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/mainImage/36bb4eff-f3c3-4d59-b2ef-ca84e5edbae7.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/c1167d73-7dfb-4138-ad27-88dbf0a17402.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/e75387f1-b802-4b0d-8931-f010bc0e7e43.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/8a7029cb-76af-4f07-88b6-6d045234e274.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/76fbcd23-1f12-4366-be98-0ecc539622d2.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/dafcf191-1c00-42f3-b889-a4f1508523ff.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/1736b664-0b53-4537-a171-8bf845410bc6.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/1bd4cf58-6e2f-43a3-833a-ff331e77ae31.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/96ae9a90-fbc4-47f9-900b-db97b1c886a5.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/8933745e-9560-4b4b-990a-0850f3bccfa8.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/e0a3df4f-5900-4090-9cf2-22ba8de8a56f.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/c62d8d25-dae8-4d3f-b74b-be04937164d9.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/655b702a-5d5e-4928-b95c-954e44e147cc.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/90d77c46-2288-494d-8431-a4d5af302162.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/c0a0ad91-c8fe-4054-86a4-782e5379bdc0.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/dcb5837d-3923-46a5-ba30-d82513457d1f.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/f0aded7e-9ceb-49aa-8c5b-0dc9758539eb.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/835db21f-dc72-49cb-8734-22a3636b2091.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/fe39596c-9d95-47a6-87e7-0e56a0debbe1.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/145bbe72-cc61-4a0a-b15b-4ab01b40ed68.webp",
+          "https://cdn.yad2.treedis.com/projects/1019044/assets/gallery/fadc6746-4870-49ab-8927-a407f6285303.webp"
+        ],
+        "previewType": "2d",
+        "promotionImage": "https://cdn.yad2.treedis.com/projects/1019044/assets/promotion/09458b3e-8064-4d7d-84c1-2d1a6e8ef6ab.webp"
+      },
+      "address": {
+        "region": {
+          "id": "6",
+          "text": "ירושלים והסביבה"
+        },
+        "topArea": {
+          "id": "100",
+          "text": "מחוז ירושלים"
+        },
+        "area": {
+          "id": "7",
+          "text": "אזור ירושלים"
+        },
+        "city": {
+          "id": "3000",
+          "text": "ירושלים"
+        },
+        "neighborhood": {
+          "id": "558",
+          "text": "רמת שרת"
+        },
+        "street": {
+          "id": "1137",
+          "text": "מיכאל אבי יונה"
+        },
+        "coords": {
+          "lat": 31.758448,
+          "lon": 35.188769
+        },
+        "house": {
+          "number": 1
+        },
+        "addressMasterId": "5698008",
+        "display": "מיכאל אבי יונה 1, ירושלים"
+      },
+      "dates": {
+        "updatedAt": "2026-03-24T11:50:34",
+        "createdAt": "2025-08-28T09:58:05"
+      },
+      "abovePrice": "",
+      "packageId": 104
+    },
+    "collectedAt": "2026-04-18T21:11:53.843Z",
+    "score": 95,
+    "reasons": [
+      "Seller type matched: private",
+      "Target location matched",
+      "6 rooms",
+      "Missing price may be negotiable"
+    ],
+    "status": "new",
+    "savedAt": "2026-04-18T21:11:53.845Z"
+  }
+]
