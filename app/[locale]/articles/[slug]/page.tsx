@@ -6,9 +6,9 @@ import { getArticleBySlug, getArticles } from "@/lib/articles";
 export async function generateStaticParams({
   params,
 }: {
-  params: Promise<{ locale: string }>;
+  params: { locale: string };
 }) {
-  const { locale } = await params;
+  const { locale } = params;
   return getArticles(locale).map((a) => ({ slug: a.slug }));
 }
 
