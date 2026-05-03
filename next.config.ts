@@ -9,6 +9,7 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "img.yad2.co.il" },
       { protocol: "https", hostname: "images.yad2.co.il" },
       { protocol: "https", hostname: "cdn.yad2.treedis.com" },
+      { protocol: "https", hostname: "images.unsplash.com" },
     ],
   },
 };

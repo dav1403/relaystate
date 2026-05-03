@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Geist, Playfair_Display } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
 import Script from "next/script";
@@ -11,6 +11,7 @@ import "../globals.css";
 const GA_ID = "G-CVXHR3Q09P";
 
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist-sans" });
+const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" });
 
 export async function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -53,7 +54,7 @@ export default async function LocaleLayout({
   const footerT = (messages as Record<string, Record<string, string>>).footer;
 
   return (
-    <html lang={locale} className={geist.variable}>
+    <html lang={locale} className={`${geist.variable} ${playfair.variable}`}>
       <head>
         <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} strategy="afterInteractive" />
         <Script id="ga-init" strategy="afterInteractive">{`
